@@ -1,7 +1,7 @@
 # Hello, I'm Steven Masters 👋
 
-**Computer Science (B.S.)**  
 **Sacramento State University**
+**Computer Science (B.S.)**  
 
 ## Tech Stack
 <p align="center">
