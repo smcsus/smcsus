@@ -32,7 +32,7 @@
 <p align="left">
   <strong>Feel free to check out my work or connect with me 😎</strong>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/steven-m-119b62212/">
+  <a href="https://www.linkedin.com/in/stevenymasters/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
