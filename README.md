@@ -1,7 +1,6 @@
 # Hello 👋
 
-**Sacramento State University**
-**Computer Science (B.S.)**  
+**I am Steven Masters | Senior B.S. Computer Science @ Sacramento State**
 
 ## Tech Stack
 <p align="center">
