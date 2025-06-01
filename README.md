@@ -1,4 +1,4 @@
-# Hello, I'm Steven Masters 👋
+# Hello 👋
 
 **Sacramento State University**
 **Computer Science (B.S.)**  
